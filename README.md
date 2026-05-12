@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Humberto+Raniolo!;" />
 </h1>
 
-<h3 align="center">A passionate Reliability Engineer & Backend Developer from Venezuela 🇻🇪</h3>
+<h3 align="center">A passionate Reliability Engineer & Backend Developer </h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I'm currently working on **Cloud Observability & Infrastructure**
 
- 🌱 I'm currently learning **Rust & advanced Kubernetes patterns**
+ 🌱 I'm currently learning **advanced Kubernetes patterns and deployments**
 
  💬 Ask me about **Node.js, NestJS, Terraform, Splunk, AWS**
 
