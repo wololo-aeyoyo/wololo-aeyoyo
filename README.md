@@ -9,11 +9,11 @@
 <h3 align="center">Site Reliability Engineer · Backend Developer · Cloud Infrastructure</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🟢 Open to Opportunities-4CAF50?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌱✨ Open to Opportunities-4CAF50?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Remote Friendly-0077B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌍Remote Friendly-0077B5?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/8+ Years Experience-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/💰5+ Years Experience-333333?style=flat-square" />
 </div>
 
 <br/>
